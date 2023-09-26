@@ -1,0 +1,7 @@
+FOR INSTALLING PANDAS PROFIING LIBRARY:
+
+https://pypi.org/project/pandas-profiling/
+
+FOR VIEWING GENERTED OUTPUT FILE :
+
+http://localhost:8888/view/1.Machine%20Learning/Pandas%20Profiling/ouyput.html
